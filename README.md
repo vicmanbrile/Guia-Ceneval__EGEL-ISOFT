@@ -1,7 +1,7 @@
 # Guia-Ceneval__EGEL-ISOFT
 Revisión de temas a evaluar para el examen EGEL-ISOFT
 
-*CENEVAL - Guía para el sustentante Examen General para el Egreso de la Licenciatura en Ingeniería de Software [link](https://ceneval.edu.mx/wpcontent/uploads/2021/07/EX-EGE-A2-GUIA_EGEL_ISOFT.pdf).*
+*CENEVAL - Guía para el sustentante Examen General para el Egreso de la Licenciatura en Ingeniería de Software [link](https://ceneval.edu.mx/wp-content/uploads/2021/07/EX-EGE-A2-GUIA_EGEL_ISOFT.pdf).*
 
 ## Lo que se evalúa
 ### Ámbitos con sus correspondientes actividades profesionales.
